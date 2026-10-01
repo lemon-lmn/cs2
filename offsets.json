@@ -11,8 +11,6 @@
     "dwLocalPlayerPawn": 39192216,
     "dwPlantedC4": 38570192,
     "dwPrediction": 39191968,
-    "dwSensitivity": 39180696,
-    "dwSensitivity_sensitivity": 88,
     "dwViewAngles": 39282664,
     "dwViewMatrix": 39217424,
     "dwViewRender": 39214368,
@@ -38,7 +36,6 @@
     "dwGameTypes": 1773520
   },
   "soundsystem.dll": {
-    "dwSoundSystem": 5460816,
-    "dwSoundSystem_engineViewData": 108
+    "dwSoundSystem": 5460816
   }
 }
